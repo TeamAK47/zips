@@ -21,7 +21,7 @@
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
 		<assets>
-			<icon>primal.jpg</icon>
+			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
     			<screenshot></screenshot>
 		</assets>
