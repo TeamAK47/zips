@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.primal" version="2.0.0" name="Primal" provider-name="Team AK-47">
+<addon id="plugin.video.primal" version="2.0.1" name="Primal" provider-name="Team AK-47">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.primal" />
@@ -8,7 +8,6 @@
 		<import addon="script.primal.metadata" />
 		<import addon="script.module.resolveurl" />
 		<import addon="script.module.requests" />
-<!--		<import addon="script.module.lambdascrapers" />-->
 		<import addon="script.module.openscrapers" />
 		<import addon="script.module.metahandler" version="1.0.0" />
 	</requires>
@@ -68,7 +67,7 @@
 	</extension>
 </addon>
 
-<addon id="script.primal.artwork" version="1.1.2" name="Primal Artwork" provider-name="Team AK-47">
+<addon id="script.primal.artwork" version="1.1.3" name="Primal Artwork" provider-name="Team AK-47">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0"/>
 	</requires>
@@ -80,7 +79,7 @@
 	</extension>
 </addon>
 
-<addon id="script.primal.metadata" version="1.1.2" name="Primal Metadata" provider-name="Team AK-47">
+<addon id="script.primal.metadata" version="1.1.3" name="Primal Metadata" provider-name="Team AK-47">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0"/>
 	</requires>
