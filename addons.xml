@@ -55,7 +55,7 @@
 	</extension>
 </addon>
 
-<addon id="script.module.primal" name="Primal Module" version="2.1.6" provider-name="Team AK-47">
+<addon id="script.module.primal" name="Primal Module" version="2.1.7" provider-name="Team AK-47">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.module.beautifulsoup4"/>
