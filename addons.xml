@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.primal" version="2.0.1" name="Primal" provider-name="Team AK-47">
+<addon id="plugin.video.primal" version="2.2.2" name="Primal" provider-name="Team AK-47">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.primal" />
